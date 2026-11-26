@@ -1,0 +1,58 @@
+{
+    "Tuesday": {
+        "Breakfast": "Banana Pancakes",
+        "Lunch": "Banana Pancakes",
+        "Dinner": "Fruit Yogurt Bowl"
+    },
+    "Saturday_Breakfast": "Creamy Pasta",
+    "Saturday_Lunch": "Fruit Yogurt Bowl",
+    "Saturday_Dinner": "Fresh Salad",
+    "Sunday_Breakfast": "Cheese Omelette",
+    "Sunday_Lunch": "Classic Pancakes",
+    "Sunday_Dinner": "Fruit Yogurt Bowl",
+    "Monday_Breakfast": "Fruit Yogurt Bowl",
+    "Monday_Lunch": "Cheese Omelette",
+    "Monday_Dinner": "Banana Pancakes",
+    "Tuesday_Breakfast": "Fruit Yogurt Bowl",
+    "Tuesday_Lunch": "Cheese Omelette",
+    "Tuesday_Dinner": "Tomato Pasta",
+    "Wednesday_Breakfast": "Fruit Yogurt Bowl",
+    "Wednesday_Lunch": "Banana Pancakes",
+    "Wednesday_Dinner": "Banana Pancakes",
+    "Thursday_Breakfast": "Fruit Yogurt Bowl",
+    "Thursday_Lunch": "Classic Pancakes",
+    "Thursday_Dinner": "Fruit Yogurt Bowl",
+    "Friday_Breakfast": "Classic Pancakes",
+    "Friday_Lunch": "Classic Pancakes",
+    "Friday_Dinner": "Banana Pancakes",
+    "Saturday": {
+        "Breakfast": "Banana Pancakes",
+        "Lunch": "Tomato Pasta",
+        "Dinner": "Fresh Salad"
+    },
+    "Sunday": {
+        "Breakfast": "Fresh Salad",
+        "Lunch": "Classic Pancakes",
+        "Dinner": "Fresh Salad"
+    },
+    "Monday": {
+        "Breakfast": "Banana Pancakes",
+        "Lunch": "Fruit Yogurt Bowl",
+        "Dinner": "Banana Pancakes"
+    },
+    "Wednesday": {
+        "Breakfast": "Classic Pancakes",
+        "Lunch": "Classic Pancakes",
+        "Dinner": "Fruit Yogurt Bowl"
+    },
+    "Thursday": {
+        "Breakfast": "Cheese Omelette",
+        "Lunch": "Classic Pancakes",
+        "Dinner": "Fruit Yogurt Bowl"
+    },
+    "Friday": {
+        "Breakfast": "Tomato Pasta",
+        "Lunch": "Classic Pancakes",
+        "Dinner": "Classic Pancakes"
+    }
+}

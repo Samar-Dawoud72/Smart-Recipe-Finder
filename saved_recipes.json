@@ -1,0 +1,78 @@
+[
+    {
+        "name": "Classic Pancakes",
+        "category": "Breakfast",
+        "time": 20,
+        "emoji": "🥞",
+        "image": "https://images.unsplash.com/photo-1528207776546-365bb710ee93?w=900",
+        "ingredients": [
+            "flour",
+            "milk",
+            "egg",
+            "sugar"
+        ],
+        "steps": [
+            "Mix flour, milk, egg and sugar.",
+            "Heat a non-stick pan.",
+            "Pour the batter into the pan.",
+            "Flip when bubbles appear."
+        ]
+    },
+    {
+        "name": "Tomato Pasta",
+        "category": "Lunch",
+        "time": 25,
+        "emoji": "🍝",
+        "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?w=900",
+        "ingredients": [
+            "pasta",
+            "tomato",
+            "garlic",
+            "olive oil"
+        ],
+        "steps": [
+            "Cook pasta in boiling water.",
+            "Heat olive oil and add garlic.",
+            "Add chopped tomatoes.",
+            "Mix the sauce with pasta."
+        ]
+    },
+    {
+        "name": "Chicken Sandwich",
+        "category": "Lunch",
+        "time": 15,
+        "emoji": "🥪",
+        "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=900",
+        "ingredients": [
+            "bread",
+            "chicken",
+            "lettuce",
+            "tomato"
+        ],
+        "steps": [
+            "Cook the chicken.",
+            "Prepare the bread.",
+            "Add lettuce and tomato.",
+            "Add chicken and serve."
+        ]
+    },
+    {
+        "name": "Mango Smoothie",
+        "category": "Drinks",
+        "time": 5,
+        "emoji": "🥭",
+        "image": "https://images.unsplash.com/photo-1546173159-315724a31696?w=900",
+        "ingredients": [
+            "mango",
+            "milk",
+            "yogurt",
+            "honey"
+        ],
+        "steps": [
+            "Peel and cut the mango.",
+            "Add mango, milk and yogurt to a blender.",
+            "Blend until smooth.",
+            "Add honey if desired."
+        ]
+    }
+]
